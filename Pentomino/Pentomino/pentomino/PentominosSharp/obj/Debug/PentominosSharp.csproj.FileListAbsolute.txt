@@ -1,0 +1,72 @@
+D:\bilall\ders belgeleri\veri yapısı ve algoritmalar\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.exe
+D:\bilall\ders belgeleri\veri yapısı ve algoritmalar\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.pdb
+D:\bilall\ders belgeleri\veri yapısı ve algoritmalar\pentominossharp_src\PentominosSharp\bin\Debug\PentominosSharp.exe
+D:\bilall\ders belgeleri\veri yapısı ve algoritmalar\pentominossharp_src\PentominosSharp\bin\Debug\PentominosSharp.pdb
+D:\bilall\ders belgeleri\veri yapısı ve algoritmalar\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+D:\bilall\ders belgeleri\veri yapısı ve algoritmalar\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.frmAbout.resources
+D:\bilall\ders belgeleri\veri yapısı ve algoritmalar\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.frmPentominos.resources
+D:\bilall\ders belgeleri\veri yapısı ve algoritmalar\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.csproj.GenerateResource.Cache
+C:\Users\pb\Desktop\pentomino\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.exe
+C:\Users\pb\Desktop\pentomino\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.pdb
+C:\Users\pb\Desktop\pentomino\pentominossharp_src\PentominosSharp\bin\Debug\PentominosSharp.exe
+C:\Users\pb\Desktop\pentomino\pentominossharp_src\PentominosSharp\bin\Debug\PentominosSharp.pdb
+C:\Users\pb\Desktop\pentomino\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+C:\Users\pb\Desktop\pentomino\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.frmAbout.resources
+C:\Users\pb\Desktop\pentomino\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.frmPentominos.resources
+C:\Users\pb\Desktop\pentomino\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.csproj.GenerateResource.Cache
+C:\Users\pb\Desktop\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.exe
+C:\Users\pb\Desktop\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.pdb
+C:\Users\pb\Desktop\pentominossharp_src\PentominosSharp\bin\Debug\PentominosSharp.exe
+C:\Users\pb\Desktop\pentominossharp_src\PentominosSharp\bin\Debug\PentominosSharp.pdb
+C:\Users\pb\Desktop\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+C:\Users\pb\Desktop\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.frmAbout.resources
+C:\Users\pb\Desktop\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.frmPentominos.resources
+C:\Users\pb\Desktop\pentominossharp_src\PentominosSharp\obj\Debug\PentominosSharp.csproj.GenerateResource.Cache
+C:\Users\pb\Desktop\Yeni klasör\PentominosSharp\obj\Debug\PentominosSharp.exe
+C:\Users\pb\Desktop\Yeni klasör\PentominosSharp\obj\Debug\PentominosSharp.pdb
+C:\Users\pb\Desktop\Yeni klasör\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+C:\Users\pb\Desktop\Yeni klasör\PentominosSharp\bin\Debug\PentominosSharp.exe
+C:\Users\pb\Desktop\Yeni klasör\PentominosSharp\bin\Debug\PentominosSharp.pdb
+C:\Users\pb\Desktop\Yeni klasör\PentominosSharp\obj\Debug\PentominosSharp.frmAbout.resources
+C:\Users\pb\Desktop\Yeni klasör\PentominosSharp\obj\Debug\PentominosSharp.frmPentominos.resources
+C:\Users\pb\Desktop\Yeni klasör\PentominosSharp\obj\Debug\PentominosSharp.csproj.GenerateResource.Cache
+C:\Users\pb\Desktop\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.exe
+C:\Users\pb\Desktop\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.pdb
+C:\Users\pb\Desktop\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+D:\bilall\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.exe
+D:\bilall\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.pdb
+D:\bilall\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+F:\bilall\pentomino döküman\PentominosSharp\bin\Debug\PentominosSharp.exe.config
+F:\bilall\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.exe
+F:\bilall\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.pdb
+F:\bilall\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf Can\Desktop\pentomino döküman\PentominosSharp\bin\Debug\PentominosSharp.exe.config
+C:\Users\Yusuf Can\Desktop\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.exe
+C:\Users\Yusuf Can\Desktop\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.pdb
+C:\Users\Yusuf Can\Desktop\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf Can\Desktop\pentomino döküman\PentominosSharp\bin\Debug\PentominosSharp.exe
+C:\Users\Yusuf Can\Desktop\pentomino döküman\PentominosSharp\bin\Debug\PentominosSharp.pdb
+C:\Users\Yusuf Can\Desktop\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.frmAbout.resources
+C:\Users\Yusuf Can\Desktop\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.frmPentominos.resources
+C:\Users\Yusuf Can\Desktop\pentomino döküman\PentominosSharp\obj\Debug\PentominosSharp.csproj.GenerateResource.Cache
+C:\Users\bilal\Desktop\pentomino döküman2\PentominosSharp\bin\Debug\PentominosSharp.exe.config
+C:\Users\bilal\Desktop\pentomino döküman2\PentominosSharp\obj\Debug\PentominosSharp.exe
+C:\Users\bilal\Desktop\pentomino döküman2\PentominosSharp\obj\Debug\PentominosSharp.pdb
+C:\Users\bilal\Desktop\pentomino döküman2\PentominosSharp\bin\Debug\PentominosSharp.exe
+C:\Users\bilal\Desktop\pentomino döküman2\PentominosSharp\bin\Debug\PentominosSharp.pdb
+C:\Users\bilal\Desktop\pentomino döküman2\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+C:\Users\bilal\Desktop\pentomino döküman2\PentominosSharp\obj\Debug\PentominosSharp.frmAbout.resources
+C:\Users\bilal\Desktop\pentomino döküman2\PentominosSharp\obj\Debug\PentominosSharp.frmPentominos.resources
+C:\Users\bilal\Desktop\pentomino döküman2\PentominosSharp\obj\Debug\PentominosSharp.csproj.GenerateResource.Cache
+C:\Users\bilal\Desktop\pentomino 2016\PentominosSharp\bin\Debug\PentominosSharp.exe.config
+C:\Users\bilal\Desktop\pentomino 2016\PentominosSharp\obj\Debug\PentominosSharp.exe
+C:\Users\bilal\Desktop\pentomino 2016\PentominosSharp\obj\Debug\PentominosSharp.pdb
+C:\Users\bilal\Desktop\not 2016 bahar\pentomino 2016\PentominosSharp\bin\Debug\PentominosSharp.exe.config
+C:\Users\bilal\Desktop\not 2016 bahar\pentomino 2016\PentominosSharp\obj\Debug\PentominosSharp.exe
+C:\Users\bilal\Desktop\not 2016 bahar\pentomino 2016\PentominosSharp\obj\Debug\PentominosSharp.pdb
+C:\Users\bilal\Desktop\pentomino 2016\PentominosSharp\bin\Debug\PentominosSharp.exe
+C:\Users\bilal\Desktop\pentomino 2016\PentominosSharp\bin\Debug\PentominosSharp.pdb
+C:\Users\bilal\Desktop\pentomino 2016\PentominosSharp\obj\Debug\PentominosSharp.csprojResolveAssemblyReference.cache
+C:\Users\bilal\Desktop\pentomino 2016\PentominosSharp\obj\Debug\PentominosSharp.frmAbout.resources
+C:\Users\bilal\Desktop\pentomino 2016\PentominosSharp\obj\Debug\PentominosSharp.frmPentominos.resources
+C:\Users\bilal\Desktop\pentomino 2016\PentominosSharp\obj\Debug\PentominosSharp.csproj.GenerateResource.Cache
